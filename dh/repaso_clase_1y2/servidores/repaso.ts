@@ -1,0 +1,2 @@
+const hola = [];
+hola.push();
